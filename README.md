@@ -39,6 +39,12 @@
 本ソフトウェアは [MIT License](./LICENSE) の下で公開されています。
 商用・非商用問わず、どなたでも自由にご利用・改変いただけます。
 
+## スクリーンショット
+![main](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/main.png?raw=true)
+![codeBlock](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/codeBlock.png?raw=true)
+![chart](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/chart.png?raw=true)
+![settings](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/settings.png?raw=true)
+
 ---
 Copyright (c) 2025 @yoshiteru11600
 
@@ -102,6 +108,12 @@ This project is built with the following amazing open-source libraries:
 
 This project is licensed under the [MIT License](./LICENSE).
 Feel free to use, modify, and distribute it for both personal and commercial projects.
+
+## Screenshot
+![main](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/main.png?raw=true)
+![codeBlock](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/codeBlock.png?raw=true)
+![chart](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/chart.png?raw=true)
+![settings](https://github.com/Yoshiteru11600/gachi-markdown/blob/images/settings.png?raw=true)
 
 ---
 Created by [@yoshiteru11600](https://twitter.com/yoshiteru11600)
