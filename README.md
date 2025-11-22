@@ -44,7 +44,7 @@ Copyright (c) 2025 @yoshiteru11600
 
 ---
 <a id="en"></a>
-# Gachi Markdown Editor 🚀
+# Gachi Markdown Editor
 
 A high-performance, standalone Markdown editor that runs entirely within a single HTML file.
 No installation, no server, and no build process required. Just open it in your browser and start writing.
